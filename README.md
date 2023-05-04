@@ -7,7 +7,7 @@ execute each experiment 10 times with random permutation of all datasets and ave
 
 The default path of codes is "D:/experiment/Conference Paper/ICML/ICML2023/code/". 
 The path of datasets is "D:/experiment/online learning dataset/regression/". 
-The store path is "D:/experiment/Conference Paper/ICML/ICML2023/Result/". 
+The store path is "D:/experiment/Conference Paper/ICML/ICML2023/result/". 
 You can also change all of the default paths.
 
 The baseline algorithms include: FOGD, NOGD, PROS-N-KONS and CON-KONS. 
