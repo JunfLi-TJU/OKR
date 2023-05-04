@@ -6,8 +6,11 @@ We implement all algorithms with R on a Windows machine with 2.8 GHz Core(TM) i7
 execute each experiment 10 times with random permutation of all datasets and average all of the results.
 
 The default path of codes is "D:/experiment/Conference Paper/ICML/ICML2023/code/". 
+
 The path of datasets is "D:/experiment/online learning dataset/regression/". 
+
 The store path is "D:/experiment/Conference Paper/ICML/ICML2023/result/". 
+
 You can also change all of the default paths.
 
 The baseline algorithms include: FOGD, NOGD, PROS-N-KONS and CON-KONS. 
